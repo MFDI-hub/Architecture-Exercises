@@ -17,8 +17,8 @@ cd ~/Documents  # or wherever you keep projects
 # Clone the repo
 git clone https://github.com/SotonLM/Architecture-Exercises.git
 
-# Enter the directory and navigate to week3
-cd Architecture-Exercises/week3
+# Enter the directory
+cd Architecture-Exercises
 ```
 
 ## 3. Install uv (Modern Python Package Manager)
@@ -60,8 +60,8 @@ uv python install 3.11  # Install specific version (optional)
 uv makes this easy - it will create a virtual environment and install dependencies automatically:
 
 ```bash
-# Navigate to the week3 folder (if not already there)
-cd Architecture-Exercises/week3
+# Navigate to the project folder (if not already there)
+cd Architecture-Exercises
 
 # Create virtual environment
 uv venv
