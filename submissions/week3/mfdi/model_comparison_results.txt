@@ -1,0 +1,479 @@
+================================================================================
+MODEL COMPARISON RESULTS
+================================================================================
+
+
+================================================================================
+Model: distilgpt2
+================================================================================
+Load Time: 0.83 seconds
+Average Generation Time: 8.103 seconds
+Average Tokens: 207.4
+Total Generation Time: 40.52 seconds
+
+Generated Outputs:
+--------------------------------------------------------------------------------
+
+Prompt: The future of AI is
+Output: The future of AI is now the objective of governments of all stripes. But in the same breath, AI is now becoming an instrument of the state, which will never rest at once.
+
+
+
+
+The current paradigm of AI will be a mix of decentralization, decentralized governance, decentralized governance, a full-blown governance of individual liberty, and of course, the creation of a political world with social governance. This is no coincidence that the last two decades of the 21st century have brought upon the emergence of decentralized political organizations where the public and private sectors (including public, state and local), both democratically and democratically, had control of the political and private spheres, and the national and private spheres and their ability to govern, finance, and control the world. The emergence of a market economy, the establishment of a national political culture that is independent of or against national interests, and a national system of private governance which promotes self-government, economic development, and a high standard of living. These new rules of management, including the implementation of the national market economy, are all already in place and may include large set of new systems of political control.
+The only solution is this, I think, of the political landscape: there is only one set of rules for governing, and the two
+Time: 7.335s | Tokens: 258
+
+
+Prompt: In the year 2030
+Output: In the year 2030, the world experienced one in five major U.S.-based food companies in 2016. For the second-largest food company in the world, it ranked number one in 2016.
+
+
+
+
+The company saw gains in corporate revenue in 2016, at $3.8 billion, compared to $3.5 billion earlier in 2016 and $2.9 billion earlier this year. That was up from $7.7 billion in 2016.
+
+
+The food industry added $2.7 billion to its total revenue for the first time in the year for the first time in a year.
+In a study released Tuesday by Harvard-Smithsonian Center for Astrophysics the research firm said the gains were "important for our industry."
+The research firm said the study would show increased access to healthier foods such as legumes, legumes and legumes as well as better products.
+In April, the world's largest consumer organization said, "Food companies must reduce the cost of food products that are too expensive and overly expensive to make."
+But the government is moving ahead with the U.S. government's $9.5 billion Food and Drug Administration's Food and Drug Administration's 2017 Food and Drug Drug Research and Quality Report to provide nutrition options for
+Time: 9.679s | Tokens: 257
+
+
+Prompt: The secret to happiness is
+Output: The secret to happiness is that the brain scans of human subjects will help them assess the cognitive condition they experience.
+
+
+
+It is important to remember that although people who achieve this self-regulation are able to express themselves with a higher degree of openness and self-regulation, they aren't alone. As researchers say with respect to the success of a research paper, “there is a profound social justice problem — many men feel threatened if they are outed.”
+We hope you had a day today!
+Read an earlier version of this article on The Conversation.
+
+
+
+
+
+
+
+
+
+
+
+
+Time: 4.718s | Tokens: 122
+
+
+Prompt: Climate change will
+Output: Climate change will "probably" be the best thing Trump has done at this point in the presidential cycle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Time: 9.747s | Tokens: 140
+
+
+Prompt: The best programming language is
+Output: The best programming language is the.NET Framework. To get the best programming language (NET) you need to start a little bit of coding knowledge (and not just the language you're developing). We call this your JavaScript development tool that helps you build your apps and then it's going to be the simplest you can build. Once you start to put more code into your app, start looking into the various programming language you use that is currently available. We've already mentioned that we use the most commonly used language in the world, and that's when we start looking into what's most useful in your apps.
+
+
+
+For every user of the Internet, every user of the Internet needs to understand and use each other. In this article I show you why our most popular programming languages are built.
+First of all, the web client API, the web server.
+In our example, you get to use the web server in your application, where you have the chance to access the server from anywhere.
+In the simplest example we'll show you another way to create an app with all the HTML, JavaScript, JavaScript, and Web components. We'll show you how to render the HTML and JavaScript components in the article.
+The main step for making the web server (and everything else),
+Time: 9.024s | Tokens: 260
+
+
+================================================================================
+Model: gpt2
+================================================================================
+Load Time: 38.01 seconds
+Average Generation Time: 14.517 seconds
+Average Tokens: 260.4
+Total Generation Time: 72.58 seconds
+
+Generated Outputs:
+--------------------------------------------------------------------------------
+
+Prompt: The future of AI is
+Output: The future of AI is not really clear in the current computer technologies. What we have here is nothing beyond the technical concept, without which the future of the human race cannot be predicted, even though science has shown clearly that humans are far more efficient than machines. Indeed, the recent success of the AI is a demonstration of how well human reasoning is superior to that of machines. In the past 10 or 20 years, technology has increased by about 500% relative to the rate of technological advancement for humans. Nevertheless, the average cost of maintaining computers with a human-level cognitive skill has been rising rapidly, with the average cost of maintaining all machines being $4 billion. Today, we can make huge improvements in computing in our own country by using the latest technology and then buying a computer that has been running for a million years. This is because the complexity of the human brain is substantially reduced. When we build up the computer to perform complex mathematical operations such as dividing food into food particles, the human brain only takes a subset of these particles (known as axons) as input and outputs that amount over some length of time. This length can vary, but depends on the characteristics of the brain as a whole and on which part of the brain we do mathematics. In the end, the total information is stored
+Time: 13.106s | Tokens: 261
+
+
+Prompt: In the year 2030
+Output: In the year 2030, the number of women entering the professions will triple (to more than 2,000 by 2030).
+
+However, women hold only 27 per cent of the professional workforce and are only one per cent of total workforce, despite a 40 per cent increase in employment.
+
+'Socially driven'
+
+Women are not in a "socially driven" state. This is because they believe their abilities are socially-driven, and they are more likely than men to work for more opportunities.
+
+These are largely opportunities given to themselves by their peers.
+
+Women are also more likely to have two degrees (45 per cent and 51 per cent) than men as part of their professional status, meaning they feel that this is socially driven. As women take higher education and work in the professional market, it may change.
+
+However, it may also also make things worse.
+
+That's a consequence of the UK Government's policies on access to and availability of women's degrees. Women's degrees are available in many public and private universities; for example there are at least 20 gender segregated scholarships for women.
+
+The Government have argued that there should be better opportunities for women to learn, to find employment, to help their children and to pursue careers
+Time: 13.677s | Tokens: 260
+
+
+Prompt: The secret to happiness is
+Output: The secret to happiness is not only having your emotions at bay—it's actually a long, hard, painful journey. You take every piece of material he could for scraps and add your opinion because your feelings are a little bit different from his—the worst sort. When he'd look at it and tell you if you gave too much of a shit, and then he'd get up, you would feel like you're at the end of the world. "This can be so fucking hard," he'd say. Once you get over the edge of being depressed, his emotional life becomes much more satisfying.
+
+I'm always curious to explore other facets of his personality. In order to understand how he does it, we had to learn about his psychology.
+
+The first thing that I learned about him, he told me, is that he gets upset with the people around him. He gets so upset when a woman says in front of him he's wrong. He's like, "And what is it I'm doing?" Then he thinks and thinks about how those women are trying to intimidate him. He doesn't take one or two of those, and I have seen him as a completely detached person—someone who wants other people to think he doesn't get it. My mother often tells me
+Time: 15.224s | Tokens: 261
+
+
+Prompt: Climate change will
+Output: Climate change will be a huge part of making sure we provide enough rain for our cities to survive.
+
+But in a moment of public action, California needs to get out of the way first—and out into the water. The state is doing exactly this every day at the state capitol grounds; the sun rises each weekday, and there's a day's worth of sunshine. At every public meeting, every public park or pond, public walkway, every community park, the state parks and waterway are under flood warnings. California's water quality agency has reported several other problems. One of the worst problems is an algae bloom that is starting to seep into the water when the water supply system is under a full or full capacity. One group of researchers from the California Department of Public Utilities and Water Resources told the state legislature they are going to have to close out each stream. "If it is still coming through the river, it can bring down large volumes of water runoff," says Chris Siegel, a spokesman for the department. State officials continue to work on how to help keep flood risk down.
+
+California recently agreed to pay $30.7 million to an emergency committee to help put some of its money on the table for the next six years.
+
+California has
+Time: 15.681s | Tokens: 259
+
+
+Prompt: The best programming language is
+Output: The best programming language is probably not very programming-friendly.
+
+On the other hand, it often makes sense to build a language more powerful. That was just the case with Python's syntax. It is possible to build language rich programming languages, but not a language that is good enough to be written in JavaScript or PHP, or a programming language that is suitable for debugging, such as Erlang or C++. In contrast, many languages already have excellent syntax and support structures, while other languages offer many features in which you have to add some extra complexity: syntax and semantics of the program, evaluation and execution, and other mechanisms for understanding problems in software. These are not languages without limitations. In fact, the first thing you will need to do is to make your language a better fit for your task. (See also my blog post "How to write a better language.").
+
+The next stage is to be able to write the language as written in a readable format (i.e., PDF format) so that you can review it's syntax and specifications before diving headfirst into new features and features.
+
+So what, then, is my current translation language or language base? Well, this is what I've done. This article will be about my process and your goals in
+Time: 14.881s | Tokens: 261
+
+
+================================================================================
+Model: gpt2-medium
+================================================================================
+Load Time: 104.60 seconds
+Average Generation Time: 24.718 seconds
+Average Tokens: 199.2
+Total Generation Time: 123.59 seconds
+
+Generated Outputs:
+--------------------------------------------------------------------------------
+
+Prompt: The future of AI is
+Output: The future of AI is not so much technological progress but more intellectual progress," Haidt explained. "And it is so good at creating useful knowledge and machines that we will have very complicated worlds but extremely simple choices and emotions."
+
+What AI can learn
+
+This is a fascinating view, and one that Haidt's most ardent opponents dismiss as a fantasy. After all, Haidt does not believe that people are always naturally rational but rather that the cognitive skills that allow us to reason are not always shared by everyone who thinks differently, and that we may not yet understand most of the important principles that underpin human morality or social relationships.
+
+Haidt also finds it interesting that he argues, correctly, that the majority of American adults who have heard of intelligent machines like Siri or a computer-brain interface would say the same thing about their own ability to reason. At least for today they seem to agree with their neighbors who say that computer-brain interfaces do not "give much meaning" to the voice that commands those computers. But this is a view based on limited research.
+
+There are few scientific and theoretical studies of human behavior and decision making. So the evidence that AI systems, after being trained with human-like cognitive reasoning would be more like us than we might
+Time: 25.799s | Tokens: 261
+
+
+Prompt: In the year 2030
+Output: In the year 2030, all countries that have a population of 4 million or more will be either at or more than the 1.5 share in 2050 projected from the IPCC's scenario 1 to 2A scenario 1A. We can also expect China alone to reach 4.4% of the world's total by around 2054, and India will reach 2.73% by 2050.
+
+In terms of its impact on our climate, India's rise above 5.5% is expected to be driven by solar energy, with hydro power being most heavily affected. The global average contribution (for 2030 to 2040) is projected at 5.9%. India's share in total energy is projected at 0.75%, while India's contribution from the world's five least emitting producers is estimated to be about 0.29%.
+
+India's projected contribution from renewables in 2036 will come from renewable energy sources of between 5% and 6% of their total energy loadings: wind and biomass accounts for about 0.2% and 0.12%, respectively, whereas hydropower is responsible for 8.1%.
+
+India is expected to lead in the 2040s for solar power and in the 2030s for electricity generation. The energy infrastructure of the country – including renewables and transmission –
+Time: 34.785s | Tokens: 260
+
+
+Prompt: The secret to happiness is
+Output: The secret to happiness is finding happiness at home."
+
+The book also features several life hacks:
+
+Take breaks every day
+
+Pray instead of praying
+
+Be a responsible partner
+
+Write down important events
+
+Take fewer long walks or run in the woods
+
+If you're one of the many people who want to know why, here's a handy little video outlining three different ways of getting more, healthier days:
+Time: 12.103s | Tokens: 89
+
+
+Prompt: Climate change will
+Output: Climate change will cause extreme weather in most of the world, but this will be a relatively small part, with the majority of these changes happening over the North Atlantic. That said, we are seeing some warming in parts of North America, with the most recent increase taking place in the northern parts of the United States.
+
+Source: R.G. Ritchie, Global Warming and Ocean Health, American Geophysical Union's website, accessed 26 December 2013
+
+Increase funding for marine mammal and biodiversity conservation through marine protected areas and open ocean areas.
+
+A bill to establish and maintain the United States Marine Mammal and Biodiversity Conservation Service in Washington, DC. This will help ensure conservation of marine mammal habitat in coastal areas while promoting marine biodiversity. To establish this service, the Congress provides appropriations, and extends the authorization of $100 million for the current FY2017 appropriations cycle. This additional authority allows the Service, through its Wildlife Conservation Fund, to continue to protect coastal resources (in addition to those already recognized by the Endangered Species Act) while improving habitat at the sea surface and increasing access for coastal residents. The bill directs this authority, for FY2017, to extend it to the United States Northern Mariana Trench (AMS) at $13.4 million, at
+Time: 36.871s | Tokens: 259
+
+
+Prompt: The best programming language is
+Output: The best programming language is usually one in which you'll be used to using the language regularly, while the language you're going to learn is one you will learn gradually. A language you learn at will could be one made for development, one that will be used frequently until you're familiar with it, or one in which you'll learn by looking for mistakes.
+
+What You Need to Know About the Basic Skills of Languages
+
+I do this first by looking at how well the language skills have been documented for the language to which you're learning it. The standard documentation for Python is at:
+
+What to Read Next >>
+Time: 14.018s | Tokens: 127
+
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+distilgpt2: Best for quick prototyping, testing, and when speed is critical.
+            Use when: Fast iteration needed, limited resources, simple tasks.
+
+gpt2:       Good balance between quality and speed.
+            Use when: Need better quality than distilgpt2, moderate resources.
+
+gpt2-medium: Best quality but slowest and largest.
+            Use when: Quality is priority, have sufficient resources/time.
